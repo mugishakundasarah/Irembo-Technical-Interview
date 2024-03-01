@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.ant-card .ant-card-head {
+  border-bottom: 1px solid #0867d2 !important; /* Change this to your primary color */
+}
+
+.ant-form-item{
+  margin: 0 !important;
+}
